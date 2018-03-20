@@ -24,13 +24,13 @@
 
 ### HTML/CSS/SCSS/RWD/Bootstrap/JavaScript/jQuery/Git/Github
 
-* 使用 photoshop、illustrator 進行切版。
+* 熟悉 photoshop、illustrator 進行切版。
 * 熟悉 HTML5 + CSS3 進行網頁切版，可不倚賴 Framework 進行 RWD 客製化及開發符合各裝置尺寸的網站建置。
-* 使用 Bootstrap 快速開發響應式網頁。
+* 熟悉 Bootstrap 快速開發響應式網頁。
 * 了解 SCSS 管理網頁版型。
 * 了解 Javascript 基本語法，並套用 Jquery 製作網頁動態效果。
-* 串接第三方 API (Google Map、FB 等等)
 * 了解 Git / Github 與基本指令運用
+* 串接第三方 API (Google Map、FB 等等)
 
 ### 作品集 Collection
 - <a href="#"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
