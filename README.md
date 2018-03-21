@@ -53,7 +53,7 @@
 - <a href="http://test1.global-trade.com.tw/tw_index.asp" target="_blank"><B>MOMENTANEE婚紗鞋客製網站</B> (一般網站)</a> <BR>
   
 - <a href="http://www.shingkaoair.com.tw/" target="_blank"><B>向國實業股份有限公司</B> (特殊案例:wordpress轉一般RWD網站)</a> <BR>
-  ⌞ google api 客製地圖
+  ⌞ google api 客製地圖<BR>
   ⌞ 完整還原 wordpress 上所有畫面及功能
   
 - <a href="https://goo.gl/o5JZ8u" target="_blank"><B>查看我的更多作品</B></a> <BR>
