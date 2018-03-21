@@ -50,7 +50,7 @@
   
 - <a href="http://khsclimatechange.com" target="_blank"><B>高雄市氣候變遷及永續行動網</B> (一般網站-無障礙)</a> <BR>
   
-- <a href="http://test1.global-trade.com.tw/tw_index.asp" target="_blank"><B>MOMENTANEE婚紗鞋客製網站</B> (一般網站)</a> <BR>
+- <a href="http://test1.global-trade.com.tw/tw_index.asp" target="_blank"><B>MOMENTANEE婚紗鞋客製網站</B> (一般網站)</a>
   
 - <a href="http://www.shingkaoair.com.tw/" target="_blank"><B>向國實業股份有限公司</B> (特殊案例:wordpress轉一般RWD網站)</a> <BR>
   ⌞ google api 客製地圖<BR>
