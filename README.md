@@ -32,9 +32,8 @@
 * 了解 Git / Github 與基本指令運用
 * 串接第三方 API (Google Map、FB 等等)
 
-### 作品集 Collection
-- <a href="http://www.coffeecenter.com.tw/new/tw_index.asp" target="_blank"><B>廣達咖啡購物網站</B> (RWD網站)</a> <BR>
-  
+### 作品集 Collection (此處僅列出10間，下方有作品連結)
+
 - <a href="http://www.comfort-mobility.com/en_index.php" target="_blank"><B>康而富時尚輔具</B> (RWD網站)</a> <BR>
   
 - <a href="http://www.ludavi.com.tw/tw_index.asp" target="_blank"><B>LUDAVI鑽石水瓶購物網站</B> (RWD網站)</a> <BR>
