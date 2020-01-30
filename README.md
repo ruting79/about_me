@@ -9,16 +9,17 @@
 ## 自我介紹 Introduction
 
 * 樂於學習及挑戰新事物。
-* 畢業後到職訓局上完3個月的相關課程後便努力朝前端工程師的方向學習，至今已累積三年的工作經驗，目前擁有將近百間網站切版實務經驗。
+* 畢業後到職訓局上完3個月的相關課程後便努力朝前端工程師的方向學習，至今已累積近五年的工作經驗，目前擁有將近百間網站切版實務經驗。
 
 ## 工作經驗 Career
 
-### 立大資訊 - 網頁切版設計師(Front-end Developer) (2014/11 - 迄今)
+### 百邇來設計 - 前端工程師師(Front-end Developer) (2018/05 - 迄今)
 
 * 與平面設計師、UI/UX設計師、後端工程師、APP工程師配合完成專案
-* 使用 Photoshop、Illustrator 並搭配 html/css/Bootstrap 進行切版。
+* 使用 Photoshop、Illustrator 並搭配 html5/css/JQ 進行切版。
 * 使用 Jquery 呈現網頁動態效果。
 * 串接第三方 API (Google Map、FB 等等)
+* 協助後端工程師開發後台功能
 
 ## 專業技能 Skills
 
@@ -34,19 +35,19 @@
 
 ### 作品集 Collection (此處僅列出10間，下方有作品連結)
 
-- <a href="http://www.comfort-mobility.com/en_index.php" target="_blank"><B>康而富時尚輔具</B> (RWD網站)</a> <BR>
+- <a href="http://banqiao.geneivf.com/index_tw.php" target="_blank"><B>基生婦產專科</B> (RWD網站)</a> <BR>
   
-- <a href="http://www.ludavi.com.tw/tw_index.asp" target="_blank"><B>LUDAVI鑽石水瓶購物網站</B> (RWD網站)</a> <BR>
+- <a href="http://www.icsbb.com/index_en.php" target="_blank"><B>一芝軒企業有限公司 ICS Airsoft</B> (RWD網站)</a> <BR>
   
-- <a href="http://www.qmamy.com.tw/" target="_blank"><B>Qmamy俏媽咪購物商城</B> (RWD網站)</a> <BR>
+- <a href="https://www.cincon.com.tw/" target="_blank"><B>幸康電子股份有限公司</B> (RWD網站)</a> <BR>
   
-- <a href="http://www.steedmachinery.com.tw/" target="_blank"><B>世鼎機械股份有限公司</B> (RWD網站)</a> <BR>
+- <a href="https://www.changwoen.com.tw/" target="_blank"><B>昶穩機械工業有限公司</B> (RWD網站)</a> <BR>
+  
+- <a href="http://www.pearltree.com.tw" target="_blank"><B>珍珠樹</B> (RWD網站)</a> <BR>
+  
+- <a href="https://newyearbell.ddm.org.tw/" target="_blank"><B>法鼓山-除夕撞鐘活動網站</B> (RWD網站)</a> <BR>
   
 - <a href="http://www.aman.com.tw/" target="_blank"><B>阿曼室內裝修設計有限公司</B> (RWD網站)</a> <BR>
-  
-- <a href="http://www.idodo.tw/" target="_blank"><B>鴻鼎菓子購物網站</B> (RWD網站)</a> <BR>
-  
-- <a href="http://www.qmammy.com.tw/F_index.aspx" target="_blank"><B>佑爾康生態農場</B> (RWD網站)</a> <BR>
   
 - <a href="http://khsclimatechange.com" target="_blank"><B>高雄市氣候變遷及永續行動網</B> (一般網站-無障礙)</a> <BR>
   
@@ -59,4 +60,4 @@
 - <a href="https://goo.gl/o5JZ8u" target="_blank"><B>查看我的更多作品</B></a> <BR>
 
 ## 未來規劃 Future plan
- * 希望學習更多相關前端技能以強化自身實力
+ * 希望學習更多相關前端技能以強化自身實力替公司創造更多價值
