@@ -13,7 +13,17 @@
 
 ## 工作經驗 Career
 
-### 百邇來設計 - 前端工程師師(Front-end Developer) (2018/05 - 迄今)
+* 目前工作年資：5~6年
+
+### 立大資訊網路股份有限公司 - 前端工程師(Front-end Developer) (2014/11 - 2018/05)
+
+* 與平面設計師、UI/UX設計師、後端工程師、APP工程師配合完成專案
+* 使用 Photoshop、Illustrator 並搭配 html5/css/JQ 進行切版。
+* 使用 Jquery 呈現網頁動態效果。
+* 串接第三方 API (Google Map、FB 等等)
+* 協助後端工程師開發後台功能
+
+### 百邇來設計 - 前端工程師(Front-end Developer) (2018/05 - 迄今)
 
 * 與平面設計師、UI/UX設計師、後端工程師、APP工程師配合完成專案
 * 使用 Photoshop、Illustrator 並搭配 html5/css/JQ 進行切版。
