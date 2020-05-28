@@ -13,9 +13,9 @@
 
 ## 工作經驗 Career
 
-* 目前工作年資：5~6年
+* 累積工作年資：5年
 
-### 立大資訊網路股份有限公司 - 前端工程師(Front-end Developer) (2014/11 - 2018/05)
+### 立大資訊 - 前端工程師(Front-end Developer) (2014/11 - 2018/05)
 
 * 與平面設計師、網頁設計師、後端工程師、APP工程師配合完成專案
 * 使用 Photoshop、Illustrator 並搭配 html5/css/JQ 進行切版。
